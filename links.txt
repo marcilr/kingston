@@ -21,10 +21,15 @@ https://www.amazon.com/dp/B01N0TQPQB?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo
 Kingston A400 SSD 240GB SATA 3 2.5” Solid State Drive SA400S37/240G
 - Increase Performance
 price: $64.92 = $64.92 / 240 = $0.27/GB (amazon prime - May 17, 2018)
+6x $64.92 = $389.52 for 4x 240GB = 960GBN usable storage
+2x $389.52 + 2x $64.92 = $779.04 + $129.84
+2x $389.52 + 4x $259.68 = $1,038.72 <===
+The lastter would be two 960GBN usable arrays plus 4 spare on the shelf. 
 https://www.amazon.com/dp/B01N5IB20Q?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo-rwWL0oT0ZedbU80VelTUZiODMgQS7I-_AMqjgKV1IaAviTEALw_wcB&th=1
 
 Kingston A400 SSD 120GB SATA 3 2.5” Solid State Drive SA400S37/120G
 - Increase Performance
-price: $39.99 = $39.99 / 120 = $0.33/GB (amazon prime - May 17, 2018)
-20x $39.99 = $799.80
+A raid6 array with 8x drives would yield
+6x 120GB = 720GB usable storage
+price: $39.99 = $39.99 / 120 = $0.33/GB (amazon prime - May 17, 2018)20x $39.99 = $799.80
 https://www.amazon.com/dp/B01N6JQS8C?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo-rwWL0oT0ZedbU80VelTUZiODMgQS7I-_AMqjgKV1IaAviTEALw_wcB

@@ -1,0 +1,30 @@
+links.txt
+Created Thu May 17 14:59:22 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Kinston related links
+
+
+Links
+=====
+Kingston A400 SSD 960GB SATA 3 2.5” Solid State Drive SA400S37/960G
+- Increase Performance
+price: $279.99 = $279.99 / 960 = $0.29 / GB (amazon prime - May 17, 2018)
+https://www.amazon.com/dp/B079XC5PVV?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo-rwWL0oT0ZedbU80VelTUZiODMgQS7I-_AMqjgKV1IaAviTEALw_wcB&th=1
+
+Kingston A400 SSD 480GB SATA 3 2.5” Solid State Drive SA400S37/480G
+- Increase Performance
+price: $120.36 = $120.36 / 480 = $0.25/GB (amazon prime - May 17, 2018)
+https://www.amazon.com/dp/B01N0TQPQB?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo-rwWL0oT0ZedbU80VelTUZiODMgQS7I-_AMqjgKV1IaAviTEALw_wcB&th=1
+
+Kingston A400 SSD 240GB SATA 3 2.5” Solid State Drive SA400S37/240G
+- Increase Performance
+price: $64.92 = $64.92 / 240 = $0.27/GB (amazon prime - May 17, 2018)
+https://www.amazon.com/dp/B01N5IB20Q?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo-rwWL0oT0ZedbU80VelTUZiODMgQS7I-_AMqjgKV1IaAviTEALw_wcB&th=1
+
+Kingston A400 SSD 120GB SATA 3 2.5” Solid State Drive SA400S37/120G
+- Increase Performance
+price: $39.99 = $39.99 / 120 = $0.33/GB (amazon prime - May 17, 2018)
+20x $39.99 = $799.80
+https://www.amazon.com/dp/B01N6JQS8C?gclid=Cj0KCQjw0PTXBRCGARIsAKNYfG0NOaJiS5Wgo-rwWL0oT0ZedbU80VelTUZiODMgQS7I-_AMqjgKV1IaAviTEALw_wcB

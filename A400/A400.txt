@@ -18,6 +18,15 @@ capacities from 120GB–960GB2.
 o Fast start-up, loading and file transfers
 o More reliable and durable than a hard drive
 o Multiple capacities with space for applications or a hard drive replacement
+--kingston.com
+
+Capacities
+==========
+120GB  SA400S37/120G
+240GB  SA400S37/240G
+480GB  SA400S37/480G
+960GB  SA400S37/960G
+--kinston.com
 
 
 Links

@@ -11,6 +11,43 @@ Links
 A400 Solid State Drive – 120GB–480GB | Kingston
 https://www.kingston.com/us/ssd/consumer/sa400s37
 
+Kingston A400 SSD 120GB SATA 3 2.5” Solid State Drive SA400S37/120G
+- Increase Performance
+price: $34.99 (amazon prime - July 12, 2018)
+6x 120GB = 720GB
+Two raid6 of 8x drives each with 4 spares on the shelf:
+  2x 8 = 16 + 4 = 20 = 20x $34.99 = $699.80
+
+Two raid6 of 10x drives each with 4 spares on the shelf: 
+  8x 120GB = 960GB
+  2x 10 = 20 + 4 = 24x $34.99 = $839.76
+https://www.amazon.com/Kingston-120GB-Solid-SA400S37-120G/dp/B01N6JQS8C/ref=sr_1_1_sspa?s=electronics&ie=UTF8&qid=1531416305&sr=1-1-spons&keywords=SA400S37%2F120G&psc=1
+
+Kingston A400 SSD 240GB SATA 3 2.5” Solid State Drive SA400S37/240G -
+Increase Performance
+o Capacity: 240GB, Interface: SATA Rev. 3.0 (6Gb/s)
+  – with backwards compatibility to SATA Rev. 2.0. 240GB — 500MB/s Read
+    and 350MB/s Write
+Two raid6 of 6x drives with 4 spare on the shelf:
+  4x 240GB = 960GB                                <=== 960GB = ~1TB
+  2x 6 = 12 + 4 = 16 = 16x $59.85 = $957.60       <=== The sweet spot 
+  16x $59.85 (amazon prime - July 11, 2018)            drive quantity vs. cost
+https://www.amazon.com/Kingston-120GB-Solid-SA400S37-120G/dp/B01N5IB20Q/ref=sr_1_1_sspa?s=electronics&ie=UTF8&qid=1531416305&sr=1-1-spons&keywords=SA400S37%2F120G&th=1
+
+Kingston A400 SSD 480GB SATA 3 2.5” Solid State Drive SA400S37/480G -
+Increase Performance
+Two raid6 of 4x drive with spare on the shelf:
+  2x 4 = 8 + 2 = 10 = 10x
+  10x $101.16 = $1011.60 (amazon prime - July 11, 2018)
+https://www.amazon.com/Kingston-120GB-Solid-SA400S37-120G/dp/B01N0TQPQB/ref=sr_1_1_sspa?s=electronics&ie=UTF8&qid=1531416305&sr=1-1-spons&keywords=SA400S37%2F120G&th=1
+
+Kingston A400 SSD 960GB SATA 3 2.5” Solid State Drive SA400S37/960G
+- Increase Performance
+price: $238.15 (amazon prime - July 12, 2018)
+Two raid6 of 4x drives with 4 spare on the shelf:
+  2x 4 = 8 + 4 = 12 = 12x $238.15 = $2,857.80
+
+
 Kingston A400 user reviews
 https://www.google.com/shopping/product/5651796220126044166/reviews?q=kingston+a400&oq=kingston+A400&aqs=chrome.0.0l6.3375j0j8&sourceid=chrome&ie=UTF-8&sa=X&ved=0ahUKEwiWx8KIhprcAhUGCDQIHeoHDQgQvCQI-QE
 

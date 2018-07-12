@@ -1,0 +1,26 @@
+A400.txt
+Created Thu Jul 12 09:14:12 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+A400 SSD
+
+Kingston’s A400 solid-state drive dramatically improves the
+responsiveness of your existing system with incredible boot,
+loading and transfer times compared to mechanical hard drives.
+Powered by a latest gen controller for read and write speeds
+up to 500MB/s and 450MB/s1, this SSD is 10x faster than a
+traditional hard drive1 for higher performance, ultra-responsive
+multi-tasking and an overall faster system. Also more reliable
+and durable than a hard drive, A400 is available in multiple
+capacities from 120GB–960GB2.
+
+o Fast start-up, loading and file transfers
+o More reliable and durable than a hard drive
+o Multiple capacities with space for applications or a hard drive replacement
+
+
+Links
+=====
+A400 SSD
+https://www.kingston.com/us/ssd/consumer/sa400s37
